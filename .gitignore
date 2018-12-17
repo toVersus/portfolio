@@ -1,5 +1,7 @@
-node_modules
-!node_modules/github-markdown-css/github-markdown.css
+/node_modules/*
+!/node_modules/github-markdown-css
+/node_modules/github-markdown-css/*
+!/node_modules/github-markdown-css/github-markdown.css
 
 *.txt
 *.pdf
