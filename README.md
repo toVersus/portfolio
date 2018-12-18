@@ -1,3 +1,7 @@
+# Portfolio
+
+[![Travis CI](https://travis-ci.org/toVersus/portfolio.svg?branch=master)](https://travis-ci.org/toVersus/portfolio)
+
 ## Usage
 
 1. Cloning the repository
